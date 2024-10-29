@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fruits>
+    <fruit>
+        <color>Red</color>
+        <name>Apple</name>
+        <weight>0.2</weight>
+    </fruit>
+    <fruit>
+        <color>Yellow</color>
+        <name>Banana</name>
+        <weight>0.3</weight>
+    </fruit>
+    <fruit>
+        <color>Orange</color>
+        <name>Papaya</name>
+        <weight>0.7</weight>
+    </fruit>
+    <fruit>
+        <color>Orange</color>
+        <name>Orange</name>
+        <weight>0.4</weight>
+    </fruit>
+    <fruit>
+        <color>Red</color>
+        <name>Strawberry</name>
+        <weight>0.1</weight>
+    </fruit>
+    <fruit>
+        <color>Blue</color>
+        <name>Blueberry</name>
+        <weight>0.05</weight>
+    </fruit>
+    <fruit>
+        <color>Marrón</color>
+        <name>Kiwi</name>
+        <weight>0.1</weight>
+    </fruit>
+</fruits>
